@@ -1,0 +1,10 @@
+patch:
+  size: 64
+  stride: 32
+
+normalization:
+  low_percentile: 2
+  high_percentile: 98
+
+reconstruction:
+  method: overlap_average

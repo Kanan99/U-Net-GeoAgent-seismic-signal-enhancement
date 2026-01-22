@@ -1,0 +1,6 @@
+
+name: baseline_run
+epochs: 30
+batch_size: 4
+learning_rate: 0.0002
+spectral_weight: 0.1
